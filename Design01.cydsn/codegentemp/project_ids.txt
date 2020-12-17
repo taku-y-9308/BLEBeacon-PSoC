@@ -1,0 +1,6 @@
+C:\Users\d4hhm\Documents\PSoC Creator\ble-beacon_capsense+vl6180-2\Design01.cydsn\Design01.cyprj|d9c90a5d-7f7f-400c-8174-3eb1a484d5bf
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|758aeecf-a519-4728-9059-93423f02e9cf
+C:\Users\d4hhm\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|4258692d-60de-4ada-ac51-be9f0ef05caa
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|3a982528-e418-481e-83a1-899a4b5bb228
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|114e8b42-c22f-4ee1-8218-7d0d6dd3806b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|67232f38-5425-4bd2-8c53-4f9d69e3bdf3
